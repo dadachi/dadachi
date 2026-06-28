@@ -1,23 +1,28 @@
 <h1 align="center">Hi, I'm Daisuke Adachi 👋</h1>
 
 <p align="center">
-  <b>iOS / Android / Rails developer · 20+ years shipping software · AI-driven development with Claude Code & the Claude Agent SDK</b>
+  <b>I ship complete products solo — native iOS, native Android, and the Rails backend behind them.</b><br>
+  20+ years writing software · AI-driven development with Claude Code &amp; the Claude Agent SDK
+</p>
+
+<p align="center">
+  <b>Open to full-time &amp; contract roles</b> — <a href="#-get-in-touch">get in touch ↓</a>
 </p>
 
 ---
 
-I'm a full-stack mobile engineer who designs, ships, and operates **iOS** (Swift / SwiftUI / SwiftData), **Android** (Kotlin / Jetpack Compose), and **Ruby on Rails** — all three layers — as a single developer. I've been writing code professionally for 20+ years and shipping to the App Store and Google Play for over a decade.
+I'm a full-stack mobile engineer who designs, ships, and operates **iOS** (Swift / SwiftUI / SwiftData), **Android** (Kotlin / Jetpack Compose), and **Ruby on Rails** — all three layers — as a single developer. I've been shipping to the App Store and Google Play for over a decade. Based in Japan 🇯🇵, working in Japanese and English.
 
 Since 2025 my focus has been **AI-driven development with Claude Code and the Claude Agent SDK**.
 
 ### 🚀 Recent work
 
-- **[Printora](https://printora.app)** — iOS app that auto-detects people in photos and arranges them into A4-optimized print layouts. Swift / SwiftUI / SwiftData / Vision Framework · 491 unit tests (Swift Testing) · RevenueCat freemium · live on the App Store.
+- **[Printora](https://printora.app)** — iOS app that auto-detects people in photos and arranges them into A4-optimized print layouts. Swift / SwiftUI / SwiftData / Vision Framework · RevenueCat freemium · 491 unit tests (Swift Testing) · live on the App Store.
 - **[My Texas Method](https://mytexasmethod.com)** — Strength-training program generator based on the Texas Method. Swift 6 / Swift Charts / SwiftData + an Apple Watch companion via WatchConnectivity · 973 unit tests · **#23 on Product Hunt** (74 upvotes).
-- **[NativeAppTemplate-Free-iOS](https://github.com/nativeapptemplate/NativeAppTemplate-Free-iOS)** — Modern, full-featured, production-ready native iOS app with user authentication. **98★ on GitHub**.
-- **[NativeAppTemplate-Free-Android](https://github.com/nativeapptemplate/NativeAppTemplate-Free-Android)** — Modern, full-featured, production-ready native Android app with user authentication. **16★ on GitHub**.
-- **[nativeapptemplateapi](https://github.com/nativeapptemplate/nativeapptemplateapi)** — Rails 8.1 API backend for NativeAppTemplate iOS/Android mobile applications. Listed on **Awesome Rails**.
-- **[nativeapptemplate-agent](https://github.com/nativeapptemplate/nativeapptemplate-agent)** — Turn a natural-language spec into a coherent three-platform SaaS — Rails 8.1 API + native SwiftUI iOS + native Jetpack Compose Android. A Claude Code agent with structural, runtime, and vision-based validation.
+- **NativeAppTemplate** — open-source, production-ready app-template suite plus an AI generator:
+  - **[iOS](https://github.com/nativeapptemplate/NativeAppTemplate-Free-iOS)** (SwiftUI, **98★**) and **[Android](https://github.com/nativeapptemplate/NativeAppTemplate-Free-Android)** (Jetpack Compose, **16★**) — native templates with user authentication.
+  - **[API](https://github.com/nativeapptemplate/nativeapptemplateapi)** — Rails 8.1 backend (Solid Queue / Cable / Cache, no Redis). Listed on **Awesome Rails**.
+  - **[agent](https://github.com/nativeapptemplate/nativeapptemplate-agent)** — Claude Agent SDK CLI that turns a natural-language spec into a coherent three-platform SaaS (Rails API + SwiftUI iOS + Jetpack Compose Android) with structural, runtime, and vision-based validation. Built at Cerebral Valley's "Built with Opus" hackathon.
 
 > **Contract highlight:** an XCFramework that reads Japanese Residence Cards (在留カード) over NFC, based on the Ministry of Justice public spec, validated with real test cards at the Immigration Services Agency · 96% unit-test coverage.
 
@@ -42,7 +47,7 @@ Since 2025 my focus has been **AI-driven development with Claude Code and the Cl
 
 ### 📫 Get in touch
 
-I'm actively open to new opportunities — full-time, contract, or interesting collaborations. I prefer environments where I can use Claude Code as my coding assistant.
+I'm actively open to new opportunities — full-time or contract. I prefer environments where I can use Claude Code as my coding assistant.
 
 - 📧 **Email:** [daisukeadachi@myturntag.com](mailto:daisukeadachi@myturntag.com)
 - 💼 **LinkedIn:** [daisuke-adachi](https://www.linkedin.com/in/daisuke-adachi-8b499028/)
