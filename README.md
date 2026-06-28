@@ -14,9 +14,10 @@ Since 2025 my focus has been **AI-driven development with Claude Code and the Cl
 
 - **[Printora](https://printora.app)** — iOS app that auto-detects people in photos and arranges them into A4-optimized print layouts. Swift / SwiftUI / SwiftData / Vision Framework · 491 unit tests (Swift Testing) · RevenueCat freemium · live on the App Store.
 - **[My Texas Method](https://mytexasmethod.com)** — Strength-training program generator based on the Texas Method. Swift 6 / Swift Charts / SwiftData + an Apple Watch companion via WatchConnectivity · 973 unit tests · **#23 on Product Hunt** (74 upvotes).
-- **nativeapptemplateapi** — Rails 8.1 multi-tenant SaaS API using Solid Queue / Cable / Cache (no external Redis), acts_as_tenant, devise_token_auth, pundit. Listed on **Awesome Rails**.
-- **nativeapptemplate-agent** — Claude Agent SDK CLI (Node 22 + TypeScript) that scaffolds iOS / Android / Rails projects with a multi-agent pipeline (Planner / Workers / Reviewer / Judge), vision-model UI scoring, and mobile-mcp UI automation. Built at Cerebral Valley's "Built with Opus" hackathon, published to **npm**.
-- **NativeAppTemplate-Free-iOS** — open-source modern app template with auth + NFC. **98★ on GitHub**.
+- **[NativeAppTemplate-Free-iOS](https://github.com/nativeapptemplate/NativeAppTemplate-Free-iOS)** — Modern, full-featured, production-ready native iOS app with user authentication. **98★ on GitHub**.
+- **[NativeAppTemplate-Free-Android](https://github.com/nativeapptemplate/NativeAppTemplate-Free-Android)** — Modern, full-featured, production-ready native Android app with user authentication. **16★ on GitHub**.
+- **[nativeapptemplateapi](https://github.com/nativeapptemplate/nativeapptemplateapi)** — Rails 8.1 API backend for NativeAppTemplate iOS/Android mobile applications. Listed on **Awesome Rails**.
+- **[nativeapptemplate-agent](https://github.com/nativeapptemplate/nativeapptemplate-agent)** — Turn a natural-language spec into a coherent three-platform SaaS — Rails 8.1 API + native SwiftUI iOS + native Jetpack Compose Android. A Claude Code agent with structural, runtime, and vision-based validation.
 
 > **Contract highlight:** an XCFramework that reads Japanese Residence Cards (在留カード) over NFC, based on the Ministry of Justice public spec, validated with real test cards at the Immigration Services Agency · 96% unit-test coverage.
 
@@ -45,7 +46,7 @@ I'm actively open to new opportunities — full-time, contract, or interesting c
 
 - 📧 **Email:** [daisukeadachi@myturntag.com](mailto:daisukeadachi@myturntag.com)
 - 💼 **LinkedIn:** [daisuke-adachi](https://www.linkedin.com/in/daisuke-adachi-8b499028/)
-- 🌐 **Website:** <!-- TODO: add your website/blog URL if you'd like -->
+- 𝕏 **X:** [@AdachiDaisuke](https://x.com/AdachiDaisuke)
 
 ---
 
