@@ -1,0 +1,11 @@
+# gstack
+.gstack/
+
+# macOS
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
