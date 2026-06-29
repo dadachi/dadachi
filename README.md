@@ -21,7 +21,7 @@ Since 2025 my focus has been **AI-driven development with Claude Code and the Cl
   <a href="https://printora.app"><img src="assets/printora.png" alt="Printora — A4 photo printing, powered by automatic person detection. Now on the App Store." width="640" /></a>
 </p>
 
-- **[Printora](https://printora.app)** — iOS app that auto-detects people in photos and arranges them into A4-optimized print layouts. Swift / SwiftUI / SwiftData / Vision Framework · RevenueCat freemium · 491 unit tests (Swift Testing) · live on the App Store.
+- **[Printora](https://printora.app)** — iOS app that auto-detects people in photos and arranges them into A4-optimized print layouts. Swift / SwiftUI / SwiftData / Vision Framework · RevenueCat freemium · 491 unit tests (Swift Testing) · on the App Store since Dec 2025.
 - **[My Texas Method](https://mytexasmethod.com)** — Strength-training program generator based on the Texas Method. Swift 6 / Swift Charts / SwiftData + an Apple Watch companion via WatchConnectivity · 973 unit tests · **#23 on Product Hunt** (74 upvotes).
 - **[NativeAppTemplate](https://nativeapptemplate.com)** — open-source, production-ready app-template suite plus an AI generator:
   - **[iOS](https://github.com/nativeapptemplate/NativeAppTemplate-Free-iOS)** (SwiftUI, **98★**) and **[Android](https://github.com/nativeapptemplate/NativeAppTemplate-Free-Android)** (Jetpack Compose, **16★**) — native templates with user authentication.
