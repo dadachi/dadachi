@@ -18,7 +18,8 @@ Since 2025 my focus has been **AI-driven development with Claude Code and the Cl
 ### 🚀 Recent work
 
 <p align="center">
-  <a href="https://printora.app"><img src="assets/printora.png" alt="Printora — A4 photo printing, powered by automatic person detection. Now on the App Store." width="640" /></a>
+  <a href="https://fieldpic.app"><img src="assets/fieldpic.png" alt="FieldPic Checklist — AI reads the photos and says when the checklist is wrong, using Apple Private Cloud Compute. On the App Store." height="220" /></a>
+  <a href="https://printora.app"><img src="assets/printora.png" alt="Printora — A4 photo printing, powered by automatic person detection. Now on the App Store." height="220" /></a>
 </p>
 
 - **[FieldPic Checklist](https://fieldpic.app)** — iOS 27 app for on-site photo checklists: import a CSV, photograph each item, export a ZIP or PDF report. Generates checklists on device with **Apple Intelligence (Foundation Models)**; AI Findings uses Apple's **Private Cloud Compute** to write a finding for each photo and suggest a corrected item name. Vision blur detection · 200+ unit tests (Swift Testing).
